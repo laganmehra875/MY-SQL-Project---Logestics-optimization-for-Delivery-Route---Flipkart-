@@ -4,4 +4,4 @@ Build a SQL-driven Logistics analytics system to analyze delays, optimize routes
 
 ## Dataset Used:
 
-- <a herf="https://github.com/laganmehra875/MY-SQL-Projhect---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/final%20project.sql">  MY -SQL dataset  </a>
+- <a href="https://github.com/laganmehra875/MY-SQL-Projhect---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/final%20project.sql"> dataset </a>
