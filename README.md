@@ -14,7 +14,8 @@ Track shipment and checkpoint delays
 
 Generate KPI reports using SQL
 
-Summarize insights in a PPT presentation
+Summarize insights in a Power Point  presentation
+
 
 ## Flipkart Raw Dataset Used :
 -<a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/Flipkart_DeliveryAgents.xlsx"> Raw Dataset used :Flipkart_delivery_agents</a>
@@ -34,7 +35,7 @@ Summarize insights in a PPT presentation
 
 
 
-## 📊 Key Features of the PPT :
+## 📊 Key Features of the Power Point Presentation :
 
 Cleanly formatted SQL queries
 
