@@ -25,6 +25,8 @@ Summarize insights in a PPT presentation
 
 -<a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/Flipkart_ShipmentTracking.xlsx"> Raw Dataset used : Flipkart_ShipmentTracking</a>
 
+-<a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/Flipkart_Warehouses.xlsx">  Raw Dataset used : Flipkart_Warehouses</a>
+
 
 ## Flipkart project with SQL Script :
 
