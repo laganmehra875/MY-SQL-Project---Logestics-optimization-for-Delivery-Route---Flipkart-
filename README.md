@@ -44,7 +44,7 @@ Visualizations for delay patterns, route KPIs, warehouse efficiency, and agent p
 
 Actionable insights and recommendations
 
-- PPT LINK : <a href="https://github.com/laganmehra875/MY-SQL-Projhect---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/lalit%20project%20presentation%20.pptx">flipkart project</a>
+- Power Point Presentation : <a href="https://github.com/laganmehra875/MY-SQL-Projhect---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/lalit%20project%20presentation%20.pptx">flipkart project</a>
 
 ## KEY FINDINGS :
 
