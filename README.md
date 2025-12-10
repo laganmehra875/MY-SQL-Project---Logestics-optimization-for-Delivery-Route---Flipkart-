@@ -17,7 +17,8 @@ Generate KPI reports using SQL
 Summarize insights in a PPT presentation
 
 ## Flipkart Raw Dataset Used :
--<a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/Flipkart_DeliveryAgents.xlsx"> Raw Dataset used Logestics-optimization-for-Delivery-Route</a>
+-<a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/Flipkart_DeliveryAgents.xlsx"> Raw Dataset used :Flipkart_delivery_agents</a>
+-<a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart-/blob/main/Flipkart_Orders.xlsx"> Raw Dataset used : Flipkart_Orders</a>
 
 
 ## Flipkart project with SQL Script :
