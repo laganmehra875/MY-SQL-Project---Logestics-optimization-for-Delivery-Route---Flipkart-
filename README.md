@@ -1,4 +1,4 @@
-# MY-SQL Project (Logestics Optimization for Delivery Routes - Flipkart)
+# MY-SQL Project(Logestics Optimization for Delivery Routes - Flipkart)
 
 ## 🎯 Project Objective :
 
